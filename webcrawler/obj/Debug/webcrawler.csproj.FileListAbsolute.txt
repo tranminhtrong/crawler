@@ -1,0 +1,16 @@
+C:\Users\Trong M Tran\source\repos\webcrawler\webcrawler\bin\Debug\webcrawler.exe.config
+C:\Users\Trong M Tran\source\repos\webcrawler\webcrawler\bin\Debug\webcrawler.exe
+C:\Users\Trong M Tran\source\repos\webcrawler\webcrawler\bin\Debug\webcrawler.pdb
+C:\Users\Trong M Tran\source\repos\webcrawler\webcrawler\bin\Debug\Fizzler.dll
+C:\Users\Trong M Tran\source\repos\webcrawler\webcrawler\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Trong M Tran\source\repos\webcrawler\webcrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Trong M Tran\source\repos\webcrawler\webcrawler\bin\Debug\Fizzler.xml
+C:\Users\Trong M Tran\source\repos\webcrawler\webcrawler\bin\Debug\Fizzler.Systems.HtmlAgilityPack.xml
+C:\Users\Trong M Tran\source\repos\webcrawler\webcrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Trong M Tran\source\repos\webcrawler\webcrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Trong M Tran\source\repos\webcrawler\webcrawler\obj\Debug\webcrawler.csprojResolveAssemblyReference.cache
+C:\Users\Trong M Tran\source\repos\webcrawler\webcrawler\obj\Debug\webcrawler.csproj.CoreCompileInputs.cache
+C:\Users\Trong M Tran\source\repos\webcrawler\webcrawler\obj\Debug\webcrawler.exe
+C:\Users\Trong M Tran\source\repos\webcrawler\webcrawler\obj\Debug\webcrawler.pdb
+C:\Users\Trong M Tran\source\repos\webcrawler\webcrawler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Trong M Tran\source\repos\webcrawler\webcrawler\bin\Debug\Newtonsoft.Json.xml
